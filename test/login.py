@@ -1,6 +1,6 @@
 print(sa)
 num1 = 1
-
+print(saf)
 num2 = 2
 
 print(d)
